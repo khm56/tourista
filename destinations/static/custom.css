@@ -1,0 +1,42 @@
+.card-title {
+	font-style: italic;
+	color: salmon;
+}
+
+body {
+	background-color: #FAECD8;
+}
+
+.card {
+	background-color: #E6FAD8;
+}
+
+.btn {
+	background-color: #75DCB0;
+}
+
+.dh {
+	font-size: 56pt;
+	color: #75DCB0;
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+.des {
+	font-size: 25pt;
+	color: #0E6741;
+}
+
+.seas {
+	font-size: 35pt;
+	color: #8A2C29;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.form {
+	font-family: Georgia;
+	font-style:italic;
+	font-weight: bold;
+	color: salmon;
+}
